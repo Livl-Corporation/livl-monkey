@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu1.txt",
+            "traveltime": 333.33333333333337,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu1.txt",
+            "traveltime": 276.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu1.txt",
+            "traveltime": 345.8333333333333,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu1.txt",
+            "traveltime": 387.5,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu1.txt",
+            "traveltime": 279.16666666666663,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu1.txt",
+            "traveltime": 301.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu2.txt",
+            "traveltime": 166.66666666666669,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu2.txt",
+            "traveltime": 137.5,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu2.txt",
+            "traveltime": 150,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu2.txt",
+            "traveltime": 150,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu2.txt",
+            "traveltime": 137.5,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu2.txt",
+            "traveltime": 133.33333333333334,
+            "runtime": 0
+        },
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu3.txt",
+            "traveltime": 300,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu3.txt",
+            "traveltime": 223.33333333333334,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu3.txt",
+            "traveltime": 261.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu3.txt",
+            "traveltime": 266.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu3.txt",
+            "traveltime": 223.33333333333331,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu3.txt",
+            "traveltime": 224.16666666666669,
+            "runtime": 0
+        },
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1781.6666666666665,
+            "runtime": 1
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1175,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1631.6666666666665,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1670,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1203.3333333333335,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu4.txt",
+            "traveltime": 1288.3333333333333,
+            "runtime": 0
+        },
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu5.txt",
+            "traveltime": 466.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu5.txt",
+            "traveltime": 316.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu5.txt",
+            "traveltime": 466.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu5.txt",
+            "traveltime": 466.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu5.txt",
+            "traveltime": 316.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu5.txt",
+            "traveltime": 333.33333333333337,
+            "runtime": 0
+        },
+        {
+            "strategyName": "initialOrderStrategy",
+            "gameName": "./jeu6.txt",
+            "traveltime": 290,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingSpeedStrategy",
+            "gameName": "./jeu6.txt",
+            "traveltime": 356.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingWeightStrategy",
+            "gameName": "./jeu6.txt",
+            "traveltime": 383.33333333333337,
+            "runtime": 0
+        },
+        {
+            "strategyName": "decreasingWeightStrategy",
+            "gameName": "./jeu6.txt",
+            "traveltime": 383.33333333333337,
+            "runtime": 0
+        },
+        {
+            "strategyName": "increasingSpeedStrategy",
+            "gameName": "./jeu6.txt",
+            "traveltime": 356.6666666666667,
+            "runtime": 0
+        },
+        {
+            "strategyName": "ratioWeightWithSpeed",
+            "gameName": "./jeu6.txt",
+            "traveltime": 383.33333333333337,
+            "runtime": 0
+        }
+    ]
+}
